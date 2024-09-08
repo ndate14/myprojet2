@@ -246,7 +246,7 @@ footer {
     font-size: 50%;
 }
 
-@media screen  and (  max-width:853px){
+@media screen  and (  max-width:85px){
     
 }
 .div6 a{
@@ -298,4 +298,18 @@ header {
     padding: 1em 0;
     text-transform: initial;
 
+}
+
+body{
+
+    background-image: url(image.informatique.jpg);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+    
+    
 }
